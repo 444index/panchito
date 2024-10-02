@@ -1,0 +1,48 @@
+.panchito {
+    width: 500px;
+    height: 150px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.pan1 {
+    width: 400px;
+    height: 120px;
+    background-color: #dbb070;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+
+.borde1 {
+    width: 400px;
+    height: 30px;
+    background-color: #bb9259;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+
+.salchicha {
+    width: 450px;
+    height: 120px;
+    background-color: #c03b3b;
+    border-radius: 60px;
+}
+
+.borde2 {
+    width: 400px;
+    height: 30px;
+    background-color: #bb9259;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+
+.pan2 {
+    width: 400px;
+    height: 120px;
+    background-color: #dbb070;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
